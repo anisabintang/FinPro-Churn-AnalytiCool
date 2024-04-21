@@ -1,6 +1,8 @@
 # FinPro-Churn-AnalytiCool
 Final Project Data Science Stage 1
 
+# Summary Insight
+
 **1. Churn Rate by Geography:**
 Negara Germany merupakan tingkat churn tertinggi dibandingkan 2 negara Spain dan France. Sementara negara Spain dan France memiliki churn rate yang hampir sama.
 
